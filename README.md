@@ -56,6 +56,9 @@ $Excess\ mortality\ rate\ per\ 100,000\ inhabitants = {Excess\ mortality \over P
 ## Results
 
 ## Visualization
+Visit the final dashboard in this [link](https://lookerstudio.google.com/reporting/868ed7aa-9235-471d-8b1f-2a7d74508fda/page/AFQtD).
+
+![Captura de pantalla (262)](https://github.com/karlarochaes/covid19-excess-mortality/assets/88100992/5fabd8b8-0bdb-47a8-b2e3-36a4db96cbd3)
 
 ## Conclusions and Recommendations
 - There was a significant gap between the reported number of deaths from COVID-19 and the estimated real numbers, especially for Mexico. The highest peak occurred shortly after New Year's Eve festivities, so these should be dates of especial restrictions in order to avoid contagions and deaths.
